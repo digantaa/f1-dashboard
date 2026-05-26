@@ -1,0 +1,6 @@
+{
+  "name": "F1 2026 Dashboard",
+  "description": "A premium futuristic dashboard for live Formula 1 2026 telemetry and season data, featuring glassmorphism design and real-time visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
